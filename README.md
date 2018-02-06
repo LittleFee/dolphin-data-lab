@@ -6,6 +6,6 @@ One-stop data recovery tools and advanced data recovery training courses.
 - Dolphin Data Lab: [https://www.dolphindatalab.com](https://www.dolphindatalab.com)
 ## Hdd Head Tools
 
-![]($res/logo.png)
+![](https://www.hddheadtools.com/wp-content/uploads/2016/01/logo.png)
 
 - Hdd Head Tools: [https://www.hddheadtools.com](https://www.hddheadtools.com)
